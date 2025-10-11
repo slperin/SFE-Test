@@ -6,11 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "SFE/2.1.1": {
+      "SFE/2.1.2": {
         "dependencies": {
           "BouncyCastle.Cryptography": "2.6.2",
+          "Ipify.NET": "1.0.0",
           "PDFsharp-GDI": "6.2.2",
-          "QRCoder": "1.6.0",
+          "QRCoder": "1.7.0",
           "System.Security.Cryptography.Pkcs": "9.0.9",
           "ARBACOT": "1.0.0.1",
           "ARBAIIBB": "1.0.0.1",
@@ -26,7 +27,7 @@
           "ARCAWSSRA4": "1.0.0.1",
           "ARCAWSSRA5": "1.0.0.1",
           "CreatePrintPDF": "1.0.0.2",
-          "EasyMail": "1.0.0.2"
+          "EasyMail": "1.0.0.3"
         },
         "runtime": {
           "SFE.dll": {}
@@ -37,6 +38,14 @@
           "lib/net6.0/BouncyCastle.Cryptography.dll": {
             "assemblyVersion": "2.0.0.0",
             "fileVersion": "2.6.2.46322"
+          }
+        }
+      },
+      "Ipify.NET/1.0.0": {
+        "runtime": {
+          "lib/net35/Ipify.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       },
@@ -159,14 +168,14 @@
           }
         }
       },
-      "QRCoder/1.6.0": {
+      "QRCoder/1.7.0": {
         "dependencies": {
           "System.Drawing.Common": "6.0.0"
         },
         "runtime": {
-          "lib/net8.0-windows7.0/QRCoder.dll": {
-            "assemblyVersion": "1.6.0.0",
-            "fileVersion": "1.6.0.0"
+          "lib/net6.0/QRCoder.dll": {
+            "assemblyVersion": "1.7.0.0",
+            "fileVersion": "1.7.0.0"
           }
         }
       },
@@ -315,18 +324,18 @@
           }
         }
       },
-      "EasyMail/1.0.0.2": {
+      "EasyMail/1.0.0.3": {
         "runtime": {
           "EasyMail.dll": {
-            "assemblyVersion": "1.0.0.2",
-            "fileVersion": "1.0.0.2"
+            "assemblyVersion": "1.0.0.3",
+            "fileVersion": "1.0.0.3"
           }
         }
       }
     }
   },
   "libraries": {
-    "SFE/2.1.1": {
+    "SFE/2.1.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -337,6 +346,13 @@
       "sha512": "sha512-7oWOcvnntmMKNzDLsdxAYqApt+AjpRpP2CShjMfIa3umZ42UQMvH0tl1qAliYPNYO6vTdcGMqnRrCPmsfzTI1w==",
       "path": "bouncycastle.cryptography/2.6.2",
       "hashPath": "bouncycastle.cryptography.2.6.2.nupkg.sha512"
+    },
+    "Ipify.NET/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AxVdpLez87o2Nz7VWVj/NLWZ2ek+t7MIfCjw1PunInGTD/eXyhHNaIKgC+K6QAvvvVByFi1AYQVuHmpwx2En/A==",
+      "path": "ipify.net/1.0.0",
+      "hashPath": "ipify.net.1.0.0.nupkg.sha512"
     },
     "Microsoft.Bcl.Cryptography/9.0.9": {
       "type": "package",
@@ -401,12 +417,12 @@
       "path": "pdfsharp-gdi/6.2.2",
       "hashPath": "pdfsharp-gdi.6.2.2.nupkg.sha512"
     },
-    "QRCoder/1.6.0": {
+    "QRCoder/1.7.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-XmPA81eo+oRxBuyVdswsSkTGTE1d3thfF11Z1PdD7oB56A6HU4G4AAOdySmGRMb/cljwlFTMWUtosGEnwpS6GA==",
-      "path": "qrcoder/1.6.0",
-      "hashPath": "qrcoder.1.6.0.nupkg.sha512"
+      "sha512": "sha512-6R3hQkayihGIDjp3F1nLRDBWG+nqahGyOY2+fH4Rll16Vad67oaUUfHkOiMWKiJFnGh+PIGDfUos+0R9m54O1g==",
+      "path": "qrcoder/1.7.0",
+      "hashPath": "qrcoder.1.7.0.nupkg.sha512"
     },
     "System.Drawing.Common/6.0.0": {
       "type": "package",
@@ -499,7 +515,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "EasyMail/1.0.0.2": {
+    "EasyMail/1.0.0.3": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
