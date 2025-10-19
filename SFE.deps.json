@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "SFE/2.1.2": {
+      "SFE/2.1.0.3": {
         "dependencies": {
           "BouncyCastle.Cryptography": "2.6.2",
           "Ipify.NET": "1.0.0",
@@ -15,13 +15,15 @@
           "System.Security.Cryptography.Pkcs": "9.0.9",
           "ARBACOT": "1.0.0.1",
           "ARBAIIBB": "1.0.0.1",
-          "ARCAWSAA": "1.0.0.0",
+          "ARCAWSAA": "1.0.0.1",
+          "ARCAWSBFE": "1.0.0.0",
           "ARCAWSCDC": "1.0.0.1",
           "ARCAWSCT": "1.0.0.1",
           "ARCAWSFE": "1.0.0.1",
           "ARCAWSFECRED": "1.0.0.1",
           "ARCAWSFEX": "1.0.0.1",
           "ARCAWSMTXCA": "1.0.0.1",
+          "ARCAWSSEG": "1.0.0.0",
           "ARCAWSSRA10": "1.0.0.1",
           "ARCAWSSRA100": "1.0.0.1",
           "ARCAWSSRA4": "1.0.0.1",
@@ -228,9 +230,17 @@
           }
         }
       },
-      "ARCAWSAA/1.0.0.0": {
+      "ARCAWSAA/1.0.0.1": {
         "runtime": {
           "ARCAWSAA.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "ARCAWSBFE/1.0.0.0": {
+        "runtime": {
+          "ARCAWSBFE.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -281,6 +291,14 @@
           "ARCAWSMTXCA.dll": {
             "assemblyVersion": "1.0.0.1",
             "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "ARCAWSSEG/1.0.0.0": {
+        "runtime": {
+          "ARCAWSSEG.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       },
@@ -335,7 +353,7 @@
     }
   },
   "libraries": {
-    "SFE/2.1.2": {
+    "SFE/2.1.0.3": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -455,7 +473,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ARCAWSAA/1.0.0.0": {
+    "ARCAWSAA/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ARCAWSBFE/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
@@ -486,6 +509,11 @@
       "sha512": ""
     },
     "ARCAWSMTXCA/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ARCAWSSEG/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
