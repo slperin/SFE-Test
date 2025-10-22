@@ -9,10 +9,9 @@
       "SFE/2.1.0.3": {
         "dependencies": {
           "BouncyCastle.Cryptography": "2.6.2",
-          "Ipify.NET": "1.0.0",
           "PDFsharp-GDI": "6.2.2",
           "QRCoder": "1.7.0",
-          "System.Security.Cryptography.Pkcs": "9.0.9",
+          "System.Security.Cryptography.Pkcs": "9.0.10",
           "ARBACOT": "1.0.0.1",
           "ARBAIIBB": "1.0.0.1",
           "ARCAWSAA": "1.0.0.1",
@@ -43,22 +42,14 @@
           }
         }
       },
-      "Ipify.NET/1.0.0": {
-        "runtime": {
-          "lib/net35/Ipify.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "Microsoft.Bcl.Cryptography/9.0.9": {
+      "Microsoft.Bcl.Cryptography/9.0.10": {
         "dependencies": {
-          "System.Formats.Asn1": "9.0.9"
+          "System.Formats.Asn1": "9.0.10"
         },
         "runtime": {
           "lib/net8.0/Microsoft.Bcl.Cryptography.dll": {
-            "assemblyVersion": "9.0.0.9",
-            "fileVersion": "9.0.925.41916"
+            "assemblyVersion": "9.0.0.10",
+            "fileVersion": "9.0.1025.47515"
           }
         }
       },
@@ -129,7 +120,7 @@
       "PDFsharp-GDI/6.2.2": {
         "dependencies": {
           "Microsoft.Extensions.Logging": "8.0.1",
-          "System.Security.Cryptography.Pkcs": "9.0.9"
+          "System.Security.Cryptography.Pkcs": "9.0.10"
         },
         "runtime": {
           "lib/net8.0-windows7.0/PdfSharp-gdi.dll": {
@@ -186,23 +177,23 @@
           "Microsoft.Win32.SystemEvents": "6.0.0"
         }
       },
-      "System.Formats.Asn1/9.0.9": {
+      "System.Formats.Asn1/9.0.10": {
         "runtime": {
           "lib/net8.0/System.Formats.Asn1.dll": {
             "assemblyVersion": "9.0.0.0",
-            "fileVersion": "9.0.925.41916"
+            "fileVersion": "9.0.1025.47515"
           }
         }
       },
-      "System.Security.Cryptography.Pkcs/9.0.9": {
+      "System.Security.Cryptography.Pkcs/9.0.10": {
         "dependencies": {
-          "Microsoft.Bcl.Cryptography": "9.0.9",
-          "System.Formats.Asn1": "9.0.9"
+          "Microsoft.Bcl.Cryptography": "9.0.10",
+          "System.Formats.Asn1": "9.0.10"
         },
         "runtime": {
           "lib/net8.0/System.Security.Cryptography.Pkcs.dll": {
             "assemblyVersion": "9.0.0.0",
-            "fileVersion": "9.0.925.41916"
+            "fileVersion": "9.0.1025.47515"
           }
         },
         "runtimeTargets": {
@@ -210,7 +201,7 @@
             "rid": "win",
             "assetType": "runtime",
             "assemblyVersion": "9.0.0.0",
-            "fileVersion": "9.0.925.41916"
+            "fileVersion": "9.0.1025.47515"
           }
         }
       },
@@ -365,19 +356,12 @@
       "path": "bouncycastle.cryptography/2.6.2",
       "hashPath": "bouncycastle.cryptography.2.6.2.nupkg.sha512"
     },
-    "Ipify.NET/1.0.0": {
+    "Microsoft.Bcl.Cryptography/9.0.10": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-AxVdpLez87o2Nz7VWVj/NLWZ2ek+t7MIfCjw1PunInGTD/eXyhHNaIKgC+K6QAvvvVByFi1AYQVuHmpwx2En/A==",
-      "path": "ipify.net/1.0.0",
-      "hashPath": "ipify.net.1.0.0.nupkg.sha512"
-    },
-    "Microsoft.Bcl.Cryptography/9.0.9": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-zrNEcA9kZ+Oqe+ZALnnpS8NuUQDHMlsg8ni5C9Do36g+bgHWzvHqlJ5SOai7bySdiGjOOg3xtfWJO9NJBgAhsg==",
-      "path": "microsoft.bcl.cryptography/9.0.9",
-      "hashPath": "microsoft.bcl.cryptography.9.0.9.nupkg.sha512"
+      "sha512": "sha512-/i6XHAsVmA6T3Fxdy/hnc2aGA7Nu92V9RWfcyZYoSWIswI2VaqaCa5vJoX87kjWcRWGgSSqWKDqHT+yzQUDQGg==",
+      "path": "microsoft.bcl.cryptography/9.0.10",
+      "hashPath": "microsoft.bcl.cryptography.9.0.10.nupkg.sha512"
     },
     "Microsoft.Extensions.DependencyInjection/8.0.1": {
       "type": "package",
@@ -449,19 +433,19 @@
       "path": "system.drawing.common/6.0.0",
       "hashPath": "system.drawing.common.6.0.0.nupkg.sha512"
     },
-    "System.Formats.Asn1/9.0.9": {
+    "System.Formats.Asn1/9.0.10": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-hnQCFWPAvZM45fFEExgbHTgq6GyfyQdHxyI+PvuzqI1G7KvBYcnNEPHbLJ+1jP+Ip69yBvvUOxaibmDInmOw2Q==",
-      "path": "system.formats.asn1/9.0.9",
-      "hashPath": "system.formats.asn1.9.0.9.nupkg.sha512"
+      "sha512": "sha512-RWiTJ02zR2+jGjNje7dbH0iI/D1JPHax+8ET5Y7vHVf/yeYY5eUPP8f8KbcbI3iisNs6x1yfAEB2H57mQ7hPIQ==",
+      "path": "system.formats.asn1/9.0.10",
+      "hashPath": "system.formats.asn1.9.0.10.nupkg.sha512"
     },
-    "System.Security.Cryptography.Pkcs/9.0.9": {
+    "System.Security.Cryptography.Pkcs/9.0.10": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Y7/wY5lqrzJOu53yLFLPGaeKBcdWNw193udOFRB2joFDVpXLkmfPpfgks7dEIJYPIrW4k3onwR+4nQz6vIaaqA==",
-      "path": "system.security.cryptography.pkcs/9.0.9",
-      "hashPath": "system.security.cryptography.pkcs.9.0.9.nupkg.sha512"
+      "sha512": "sha512-Pg7QZz80fOJZrtJnAdEAIpeor8q7F1ofwXGYgLNr4dR8Mqf2l7lfeTaodQkRetrj+ClQwVVYoyi6g2eOsmstFw==",
+      "path": "system.security.cryptography.pkcs/9.0.10",
+      "hashPath": "system.security.cryptography.pkcs.9.0.10.nupkg.sha512"
     },
     "ARBACOT/1.0.0.1": {
       "type": "reference",
