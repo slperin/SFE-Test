@@ -13,7 +13,7 @@ Como opción puede generar un comprobante en modo PDF mediante un formato preest
     WSFECRED    Comprobantes MyPymes (Comprobantes A, B, C y M)
     WSFEX       Comprobantes Exportación (Comprobantes E)
     WSMTXCA     Comprobantes Mercado Interno con Detalle (Matrix) (Comprobantes A y B)
-    WSSEG       Seguros de caución
+    WSSEG       Seguros de Caución
     WSSRA4      Consulta Padrón A4
     WSSRA5      Consulta Padrón A5
     WSSRA10     Consulta Padrón A10
