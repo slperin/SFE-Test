@@ -13,7 +13,7 @@
           "QRCoder": "1.7.0",
           "System.Security.Cryptography.Pkcs": "9.0.10",
           "ARBACOT": "1.0.0.1",
-          "ARBAIIBB": "1.0.0.1",
+          "ARBAIIBB": "1.0.0.2",
           "ARCAWSAA": "1.0.0.1",
           "ARCAWSBFE": "1.0.0.0",
           "ARCAWSCDC": "1.0.0.1",
@@ -213,11 +213,11 @@
           }
         }
       },
-      "ARBAIIBB/1.0.0.1": {
+      "ARBAIIBB/1.0.0.2": {
         "runtime": {
           "ARBAIIBB.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
+            "assemblyVersion": "1.0.0.2",
+            "fileVersion": "1.0.0.2"
           }
         }
       },
@@ -452,7 +452,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ARBAIIBB/1.0.0.1": {
+    "ARBAIIBB/1.0.0.2": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
