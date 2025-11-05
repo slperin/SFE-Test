@@ -23,6 +23,7 @@ Como opción puede generar un comprobante en modo PDF mediante un formato preest
 
     COT         Código Operación de Traslado o Transporte
     IIBB        Padrón Mensual de Percepciones y Retenciones
+    IIBB        Consulta de Alícuotas por CUIT
 
 La aplicación requiere su ejecución sobre Windows 10 o superior de 64 bits o Windows Server 2016 o superior.
 La entrada y salida de información se efectúa mediante archivos en formato JSON.
