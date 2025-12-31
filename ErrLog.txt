@@ -1,0 +1,9 @@
+2025-12-10 18:14:30 - GetCredentials
+Error: Archivo de Certificado inexistente.
+================================================================================
+2025-12-10 18:14:55 - GetCredentials
+Error: Archivo de Certificado inexistente.
+================================================================================
+2025-12-10 18:18:15 - GetCredentials
+Error: Archivo de Certificado inexistente.
+================================================================================
