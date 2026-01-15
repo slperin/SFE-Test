@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "SFE/2.1.0.3": {
+      "SFE/2.1.0.4": {
         "dependencies": {
           "BouncyCastle.Cryptography": "2.6.2",
           "PDFsharp-GDI": "6.2.2",
@@ -27,7 +27,7 @@
           "ARCAWSSRA100": "1.0.0.1",
           "ARCAWSSRA4": "1.0.0.1",
           "ARCAWSSRA5": "1.0.0.1",
-          "CreatePrintPDF": "1.0.0.2",
+          "CreatePrintPDF": "1.0.0.3",
           "EasyMail": "1.0.0.3"
         },
         "runtime": {
@@ -325,11 +325,11 @@
           }
         }
       },
-      "CreatePrintPDF/1.0.0.2": {
+      "CreatePrintPDF/1.0.0.3": {
         "runtime": {
           "CreatePrintPDF.dll": {
-            "assemblyVersion": "1.0.0.2",
-            "fileVersion": "1.0.0.2"
+            "assemblyVersion": "1.0.0.3",
+            "fileVersion": "1.0.0.3"
           }
         }
       },
@@ -344,7 +344,7 @@
     }
   },
   "libraries": {
-    "SFE/2.1.0.3": {
+    "SFE/2.1.0.4": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -522,7 +522,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "CreatePrintPDF/1.0.0.2": {
+    "CreatePrintPDF/1.0.0.3": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
