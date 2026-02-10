@@ -6,23 +6,24 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "SFE/2.1.0.4": {
+      "SFE/2.1.0.5": {
         "dependencies": {
           "BouncyCastle.Cryptography": "2.6.2",
           "PDFsharp-GDI": "6.2.2",
           "QRCoder": "1.7.0",
           "System.Security.Cryptography.Pkcs": "9.0.10",
+          "ARBAA122R": "1.0.0.0",
           "ARBACOT": "1.0.0.1",
           "ARBAIIBB": "1.0.0.2",
-          "ARCAWSAA": "1.0.0.1",
-          "ARCAWSBFE": "1.0.0.0",
+          "ARCAWSAA": "1.0.0.2",
+          "ARCAWSBFE": "1.0.0.1",
           "ARCAWSCDC": "1.0.0.1",
           "ARCAWSCT": "1.0.0.1",
-          "ARCAWSFE": "1.0.0.1",
+          "ARCAWSFE": "1.0.0.2",
           "ARCAWSFECRED": "1.0.0.1",
           "ARCAWSFEX": "1.0.0.1",
           "ARCAWSMTXCA": "1.0.0.1",
-          "ARCAWSSEG": "1.0.0.0",
+          "ARCAWSSEG": "1.0.0.1",
           "ARCAWSSRA10": "1.0.0.1",
           "ARCAWSSRA100": "1.0.0.1",
           "ARCAWSSRA4": "1.0.0.1",
@@ -205,6 +206,14 @@
           }
         }
       },
+      "ARBAA122R/1.0.0.0": {
+        "runtime": {
+          "ARBAA122R.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "ARBACOT/1.0.0.1": {
         "runtime": {
           "ARBACOT.dll": {
@@ -221,19 +230,19 @@
           }
         }
       },
-      "ARCAWSAA/1.0.0.1": {
+      "ARCAWSAA/1.0.0.2": {
         "runtime": {
           "ARCAWSAA.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
+            "assemblyVersion": "1.0.0.2",
+            "fileVersion": "1.0.0.2"
           }
         }
       },
-      "ARCAWSBFE/1.0.0.0": {
+      "ARCAWSBFE/1.0.0.1": {
         "runtime": {
           "ARCAWSBFE.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
           }
         }
       },
@@ -253,11 +262,11 @@
           }
         }
       },
-      "ARCAWSFE/1.0.0.1": {
+      "ARCAWSFE/1.0.0.2": {
         "runtime": {
           "ARCAWSFE.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
+            "assemblyVersion": "1.0.0.2",
+            "fileVersion": "1.0.0.2"
           }
         }
       },
@@ -285,11 +294,11 @@
           }
         }
       },
-      "ARCAWSSEG/1.0.0.0": {
+      "ARCAWSSEG/1.0.0.1": {
         "runtime": {
           "ARCAWSSEG.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
           }
         }
       },
@@ -344,7 +353,7 @@
     }
   },
   "libraries": {
-    "SFE/2.1.0.4": {
+    "SFE/2.1.0.5": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -447,6 +456,11 @@
       "path": "system.security.cryptography.pkcs/9.0.10",
       "hashPath": "system.security.cryptography.pkcs.9.0.10.nupkg.sha512"
     },
+    "ARBAA122R/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "ARBACOT/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
@@ -457,12 +471,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ARCAWSAA/1.0.0.1": {
+    "ARCAWSAA/1.0.0.2": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "ARCAWSBFE/1.0.0.0": {
+    "ARCAWSBFE/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
@@ -477,7 +491,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ARCAWSFE/1.0.0.1": {
+    "ARCAWSFE/1.0.0.2": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
@@ -497,7 +511,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ARCAWSSEG/1.0.0.0": {
+    "ARCAWSSEG/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

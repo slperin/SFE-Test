@@ -7,3 +7,102 @@ Error: Archivo de Certificado inexistente.
 2025-12-10 18:18:15 - GetCredentials
 Error: Archivo de Certificado inexistente.
 ================================================================================
+2026-01-23 17:42:14 - JSONResponse
+Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Exceptions.TargetSite.
+================================================================================
+2026-01-23 17:47:05 - JSONResponse
+Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Exceptions.TargetSite.
+================================================================================
+2026-01-23 17:48:34 - JSONResponse
+Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Exceptions.TargetSite.
+================================================================================
+2026-01-27 14:04:43 - Timer_Tick - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-01-27 14:04:48 - Timer_Tick - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-01-27 14:04:53 - Timer_Tick - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-01-27 14:04:58 - Timer_Tick - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-01-27 14:05:04 - Timer_Tick - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-01-27 14:05:09 - Timer_Tick - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-01-27 14:05:16 - Timer_Tick - 
+El nombre de red especificado ya no está disponible. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-01-27 14:05:21 - Timer_Tick - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-01-27 14:05:26 - Timer_Tick - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-01-27 14:05:31 - Timer_Tick - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-01-27 14:05:36 - Timer_Tick - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-01-27 14:05:41 - Timer_Tick - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-01-27 14:11:14 - JSONResponse
+Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Exceptions.TargetSite.
+================================================================================
+2026-02-07 14:51:15 - Timer_Tick - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-02-08 13:46:14 - JSONResponse
+Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Exceptions.TargetSite.
+================================================================================
+2026-02-08 13:46:36 - JSONResponse
+Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Exceptions.TargetSite.
+================================================================================
+2026-02-08 13:47:49 - JSONResponse
+Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Exceptions.TargetSite.
+================================================================================
+2026-02-08 13:48:10 - JSONResponse
+Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Exceptions.TargetSite.
+================================================================================
+2026-02-08 14:15:18 - GetCredentials
+Error: Archivo de Certificado inexistente.
+================================================================================
+2026-02-09 13:21:20 - Timer_Tick - \\BWServer\D\FE\SrvToAFIP\Test1312.json
+The JSON value could not be converted to System.Double. Path: $.Cuit | LineNumber: 2 | BytePositionInLine: 25.
+================================================================================
+2026-02-09 13:21:25 - Timer_Tick - \\BWServer\D\FE\SrvToAFIP\Test1312.json
+The JSON value could not be converted to System.Double. Path: $.Cuit | LineNumber: 2 | BytePositionInLine: 25.
+================================================================================
+2026-02-09 13:21:30 - Timer_Tick - \\BWServer\D\FE\SrvToAFIP\Test1312.json
+The JSON value could not be converted to System.Double. Path: $.Cuit | LineNumber: 2 | BytePositionInLine: 25.
+================================================================================
+2026-02-09 13:34:06 - JSONResponse
+Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Exceptions.TargetSite.
+================================================================================
+2026-02-09 19:57:32 - JSONResponse
+Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Exceptions.TargetSite.
+================================================================================
+2026-02-09 20:05:47 - JSONResponse
+Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Exceptions.TargetSite.
+================================================================================
+2026-02-09 20:16:53 - JSONResponse
+Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Exceptions.TargetSite.
+================================================================================
+2026-02-09 20:34:07 - JSONResponse
+Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Exceptions.TargetSite.
+================================================================================
+2026-02-09 20:38:28 - JSONResponse
+Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Exceptions.TargetSite.
+================================================================================
+2026-02-09 20:42:44 - JSONResponse
+Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Exceptions.TargetSite.
+================================================================================
+2026-02-09 20:54:29 - JSONResponse
+Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Exceptions.TargetSite.
+================================================================================
