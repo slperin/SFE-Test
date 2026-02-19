@@ -106,3 +106,9 @@ Serialization and deserialization of 'System.Reflection.MethodBase' instances is
 2026-02-09 20:54:29 - JSONResponse
 Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Exceptions.TargetSite.
 ================================================================================
+2026-02-14 13:37:54 - JSONResponse
+Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Exceptions.TargetSite.
+================================================================================
+2026-02-14 13:40:52 - JSONResponse
+Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Exceptions.TargetSite.
+================================================================================
