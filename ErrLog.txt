@@ -145,3 +145,63 @@ Error de firma del LoginTicketRequest: Could not load file or assembly 'System.S
 2026-02-28 14:22:29 - MoveNext
 Error de firma del LoginTicketRequest: Could not load file or assembly 'System.Security.Cryptography.Pkcs, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. El sistema no puede encontrar el archivo especificado.
 ================================================================================
+2026-02-28 16:35:41 - MoveNext - \\BWServer\D\FE\SrvToAFIP\Test1312.json
+The JSON value could not be converted to System.Boolean. Path: $.DireccionSkip | LineNumber: 12 | BytePositionInLine: 27.
+================================================================================
+2026-02-28 16:35:46 - MoveNext - \\BWServer\D\FE\SrvToAFIP\Test1312.json
+The JSON value could not be converted to System.Boolean. Path: $.DireccionSkip | LineNumber: 12 | BytePositionInLine: 27.
+================================================================================
+2026-02-28 16:35:51 - MoveNext - \\BWServer\D\FE\SrvToAFIP\Test1312.json
+The JSON value could not be converted to System.Boolean. Path: $.DireccionSkip | LineNumber: 12 | BytePositionInLine: 27.
+================================================================================
+2026-02-28 16:35:56 - MoveNext - \\BWServer\D\FE\SrvToAFIP\Test1312.json
+The JSON value could not be converted to System.Boolean. Path: $.DireccionSkip | LineNumber: 12 | BytePositionInLine: 27.
+================================================================================
+2026-02-28 16:36:01 - MoveNext - \\BWServer\D\FE\SrvToAFIP\Test1312.json
+The JSON value could not be converted to System.Boolean. Path: $.DireccionSkip | LineNumber: 12 | BytePositionInLine: 27.
+================================================================================
+2026-02-28 16:36:06 - MoveNext - \\BWServer\D\FE\SrvToAFIP\Test1312.json
+The JSON value could not be converted to System.Boolean. Path: $.DireccionSkip | LineNumber: 12 | BytePositionInLine: 27.
+================================================================================
+2026-02-28 16:36:11 - MoveNext - \\BWServer\D\FE\SrvToAFIP\Test1312.json
+The JSON value could not be converted to System.Boolean. Path: $.DireccionSkip | LineNumber: 12 | BytePositionInLine: 27.
+================================================================================
+2026-03-02 12:33:01 - MoveNext - \\BWServer\D\FE\SrvToAFIP\Test1312.json
+String '02/31/2026' was not recognized as a valid DateTime.
+================================================================================
+2026-03-07 21:15:01 - MoveNext - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-03-07 21:15:06 - MoveNext - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-03-07 21:15:11 - MoveNext - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-03-07 21:15:17 - MoveNext - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-03-07 21:15:22 - MoveNext - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-03-07 21:15:27 - MoveNext - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-03-07 21:15:34 - MoveNext - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-03-07 21:15:39 - MoveNext - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-03-07 21:15:44 - MoveNext - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-03-07 21:15:49 - MoveNext - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-03-07 21:15:54 - MoveNext - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
+2026-03-07 21:15:59 - MoveNext - 
+No se ha encontrado la ruta de acceso de la red. : '\\BWServer\D\FE\SrvToAFIP'
+================================================================================
