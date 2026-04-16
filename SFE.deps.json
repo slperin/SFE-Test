@@ -12,23 +12,23 @@
           "PDFsharp-GDI": "6.2.2",
           "QRCoder": "1.7.0",
           "System.Security.Cryptography.Pkcs": "9.0.10",
-          "ARBAA122R": "1.0.0.0",
-          "ARBACOT": "1.0.0.1",
-          "ARBAIIBB": "1.0.0.2",
-          "ARCAWSAA": "1.0.0.2",
-          "ARCAWSBFE": "1.0.0.1",
-          "ARCAWSCDC": "1.0.0.1",
-          "ARCAWSCT": "1.0.0.1",
-          "ARCAWSFE": "1.0.0.2",
-          "ARCAWSFECRED": "1.0.0.1",
-          "ARCAWSFEX": "1.0.0.1",
-          "ARCAWSMTXCA": "1.0.0.1",
-          "ARCAWSSEG": "1.0.0.1",
-          "ARCAWSSRA10": "1.0.0.1",
-          "ARCAWSSRA100": "1.0.0.1",
-          "ARCAWSSRA4": "1.0.0.1",
-          "ARCAWSSRA5": "1.0.0.1",
-          "CreatePrintPDF": "1.0.0.3",
+          "ARBAA122R": "1.0.0.1",
+          "ARBACOT": "1.0.0.2",
+          "ARBAIIBB": "1.0.0.3",
+          "ARCAWSAA": "1.0.0.3",
+          "ARCAWSBFE": "1.0.0.2",
+          "ARCAWSCDC": "1.0.0.2",
+          "ARCAWSCT": "1.0.0.2",
+          "ARCAWSFE": "1.0.0.3",
+          "ARCAWSFECRED": "1.0.0.2",
+          "ARCAWSFEX": "1.0.0.2",
+          "ARCAWSMTXCA": "1.0.0.2",
+          "ARCAWSSEG": "1.0.0.2",
+          "ARCAWSSRA10": "1.0.0.2",
+          "ARCAWSSRA100": "1.0.0.2",
+          "ARCAWSSRA4": "1.0.0.2",
+          "ARCAWSSRA5": "1.0.0.2",
+          "CreatePrintPDF": "1.0.0.4",
           "EasyMail": "1.0.0.3"
         },
         "runtime": {
@@ -206,139 +206,139 @@
           }
         }
       },
-      "ARBAA122R/1.0.0.0": {
+      "ARBAA122R/1.0.0.1": {
         "runtime": {
           "ARBAA122R.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
           }
         }
       },
-      "ARBACOT/1.0.0.1": {
+      "ARBACOT/1.0.0.2": {
         "runtime": {
           "ARBACOT.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
+            "assemblyVersion": "1.0.0.2",
+            "fileVersion": "1.0.0.2"
           }
         }
       },
-      "ARBAIIBB/1.0.0.2": {
+      "ARBAIIBB/1.0.0.3": {
         "runtime": {
           "ARBAIIBB.dll": {
-            "assemblyVersion": "1.0.0.2",
-            "fileVersion": "1.0.0.2"
-          }
-        }
-      },
-      "ARCAWSAA/1.0.0.2": {
-        "runtime": {
-          "ARCAWSAA.dll": {
-            "assemblyVersion": "1.0.0.2",
-            "fileVersion": "1.0.0.2"
-          }
-        }
-      },
-      "ARCAWSBFE/1.0.0.1": {
-        "runtime": {
-          "ARCAWSBFE.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
-          }
-        }
-      },
-      "ARCAWSCDC/1.0.0.1": {
-        "runtime": {
-          "ARCAWSCDC.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
-          }
-        }
-      },
-      "ARCAWSCT/1.0.0.1": {
-        "runtime": {
-          "ARCAWSCT.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
-          }
-        }
-      },
-      "ARCAWSFE/1.0.0.2": {
-        "runtime": {
-          "ARCAWSFE.dll": {
-            "assemblyVersion": "1.0.0.2",
-            "fileVersion": "1.0.0.2"
-          }
-        }
-      },
-      "ARCAWSFECRED/1.0.0.1": {
-        "runtime": {
-          "ARCAWSFECRED.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
-          }
-        }
-      },
-      "ARCAWSFEX/1.0.0.1": {
-        "runtime": {
-          "ARCAWSFEX.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
-          }
-        }
-      },
-      "ARCAWSMTXCA/1.0.0.1": {
-        "runtime": {
-          "ARCAWSMTXCA.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
-          }
-        }
-      },
-      "ARCAWSSEG/1.0.0.1": {
-        "runtime": {
-          "ARCAWSSEG.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
-          }
-        }
-      },
-      "ARCAWSSRA10/1.0.0.1": {
-        "runtime": {
-          "ARCAWSSRA10.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
-          }
-        }
-      },
-      "ARCAWSSRA100/1.0.0.1": {
-        "runtime": {
-          "ARCAWSSRA100.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
-          }
-        }
-      },
-      "ARCAWSSRA4/1.0.0.1": {
-        "runtime": {
-          "ARCAWSSRA4.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
-          }
-        }
-      },
-      "ARCAWSSRA5/1.0.0.1": {
-        "runtime": {
-          "ARCAWSSRA5.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
-          }
-        }
-      },
-      "CreatePrintPDF/1.0.0.3": {
-        "runtime": {
-          "CreatePrintPDF.dll": {
             "assemblyVersion": "1.0.0.3",
             "fileVersion": "1.0.0.3"
+          }
+        }
+      },
+      "ARCAWSAA/1.0.0.3": {
+        "runtime": {
+          "ARCAWSAA.dll": {
+            "assemblyVersion": "1.0.0.3",
+            "fileVersion": "1.0.0.3"
+          }
+        }
+      },
+      "ARCAWSBFE/1.0.0.2": {
+        "runtime": {
+          "ARCAWSBFE.dll": {
+            "assemblyVersion": "1.0.0.2",
+            "fileVersion": "1.0.0.2"
+          }
+        }
+      },
+      "ARCAWSCDC/1.0.0.2": {
+        "runtime": {
+          "ARCAWSCDC.dll": {
+            "assemblyVersion": "1.0.0.2",
+            "fileVersion": "1.0.0.2"
+          }
+        }
+      },
+      "ARCAWSCT/1.0.0.2": {
+        "runtime": {
+          "ARCAWSCT.dll": {
+            "assemblyVersion": "1.0.0.2",
+            "fileVersion": "1.0.0.2"
+          }
+        }
+      },
+      "ARCAWSFE/1.0.0.3": {
+        "runtime": {
+          "ARCAWSFE.dll": {
+            "assemblyVersion": "1.0.0.3",
+            "fileVersion": "1.0.0.3"
+          }
+        }
+      },
+      "ARCAWSFECRED/1.0.0.2": {
+        "runtime": {
+          "ARCAWSFECRED.dll": {
+            "assemblyVersion": "1.0.0.2",
+            "fileVersion": "1.0.0.2"
+          }
+        }
+      },
+      "ARCAWSFEX/1.0.0.2": {
+        "runtime": {
+          "ARCAWSFEX.dll": {
+            "assemblyVersion": "1.0.0.2",
+            "fileVersion": "1.0.0.2"
+          }
+        }
+      },
+      "ARCAWSMTXCA/1.0.0.2": {
+        "runtime": {
+          "ARCAWSMTXCA.dll": {
+            "assemblyVersion": "1.0.0.2",
+            "fileVersion": "1.0.0.2"
+          }
+        }
+      },
+      "ARCAWSSEG/1.0.0.2": {
+        "runtime": {
+          "ARCAWSSEG.dll": {
+            "assemblyVersion": "1.0.0.2",
+            "fileVersion": "1.0.0.2"
+          }
+        }
+      },
+      "ARCAWSSRA10/1.0.0.2": {
+        "runtime": {
+          "ARCAWSSRA10.dll": {
+            "assemblyVersion": "1.0.0.2",
+            "fileVersion": "1.0.0.2"
+          }
+        }
+      },
+      "ARCAWSSRA100/1.0.0.2": {
+        "runtime": {
+          "ARCAWSSRA100.dll": {
+            "assemblyVersion": "1.0.0.2",
+            "fileVersion": "1.0.0.2"
+          }
+        }
+      },
+      "ARCAWSSRA4/1.0.0.2": {
+        "runtime": {
+          "ARCAWSSRA4.dll": {
+            "assemblyVersion": "1.0.0.2",
+            "fileVersion": "1.0.0.2"
+          }
+        }
+      },
+      "ARCAWSSRA5/1.0.0.2": {
+        "runtime": {
+          "ARCAWSSRA5.dll": {
+            "assemblyVersion": "1.0.0.2",
+            "fileVersion": "1.0.0.2"
+          }
+        }
+      },
+      "CreatePrintPDF/1.0.0.4": {
+        "runtime": {
+          "CreatePrintPDF.dll": {
+            "assemblyVersion": "1.0.0.4",
+            "fileVersion": "1.0.0.4"
           }
         }
       },
@@ -456,87 +456,87 @@
       "path": "system.security.cryptography.pkcs/9.0.10",
       "hashPath": "system.security.cryptography.pkcs.9.0.10.nupkg.sha512"
     },
-    "ARBAA122R/1.0.0.0": {
+    "ARBAA122R/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "ARBACOT/1.0.0.1": {
+    "ARBACOT/1.0.0.2": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "ARBAIIBB/1.0.0.2": {
+    "ARBAIIBB/1.0.0.3": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "ARCAWSAA/1.0.0.2": {
+    "ARCAWSAA/1.0.0.3": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "ARCAWSBFE/1.0.0.1": {
+    "ARCAWSBFE/1.0.0.2": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "ARCAWSCDC/1.0.0.1": {
+    "ARCAWSCDC/1.0.0.2": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "ARCAWSCT/1.0.0.1": {
+    "ARCAWSCT/1.0.0.2": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "ARCAWSFE/1.0.0.2": {
+    "ARCAWSFE/1.0.0.3": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "ARCAWSFECRED/1.0.0.1": {
+    "ARCAWSFECRED/1.0.0.2": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "ARCAWSFEX/1.0.0.1": {
+    "ARCAWSFEX/1.0.0.2": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "ARCAWSMTXCA/1.0.0.1": {
+    "ARCAWSMTXCA/1.0.0.2": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "ARCAWSSEG/1.0.0.1": {
+    "ARCAWSSEG/1.0.0.2": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "ARCAWSSRA10/1.0.0.1": {
+    "ARCAWSSRA10/1.0.0.2": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "ARCAWSSRA100/1.0.0.1": {
+    "ARCAWSSRA100/1.0.0.2": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "ARCAWSSRA4/1.0.0.1": {
+    "ARCAWSSRA4/1.0.0.2": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "ARCAWSSRA5/1.0.0.1": {
+    "ARCAWSSRA5/1.0.0.2": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "CreatePrintPDF/1.0.0.3": {
+    "CreatePrintPDF/1.0.0.4": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
