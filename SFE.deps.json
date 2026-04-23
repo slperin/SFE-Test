@@ -11,7 +11,7 @@
           "BouncyCastle.Cryptography": "2.6.2",
           "PDFsharp-GDI": "6.2.4",
           "QRCoder": "1.8.0",
-          "System.Security.Cryptography.Pkcs": "10.0.6",
+          "System.Security.Cryptography.Pkcs": "10.0.7",
           "ARBAA122R": "1.0.0.1",
           "ARBACOT": "1.0.0.2",
           "ARBAIIBB": "1.0.0.3",
@@ -43,14 +43,14 @@
           }
         }
       },
-      "Microsoft.Bcl.Cryptography/10.0.6": {
+      "Microsoft.Bcl.Cryptography/10.0.7": {
         "dependencies": {
-          "System.Formats.Asn1": "10.0.6"
+          "System.Formats.Asn1": "10.0.7"
         },
         "runtime": {
           "lib/net8.0/Microsoft.Bcl.Cryptography.dll": {
-            "assemblyVersion": "10.0.0.6",
-            "fileVersion": "10.0.626.17701"
+            "assemblyVersion": "10.0.0.7",
+            "fileVersion": "10.0.726.21808"
           }
         }
       },
@@ -77,7 +77,7 @@
       "PDFsharp-GDI/6.2.4": {
         "dependencies": {
           "Microsoft.Extensions.Logging.Abstractions": "8.0.3",
-          "System.Security.Cryptography.Pkcs": "10.0.6"
+          "System.Security.Cryptography.Pkcs": "10.0.7"
         },
         "runtime": {
           "lib/net8.0-windows7.0/PdfSharp-gdi.dll": {
@@ -134,23 +134,23 @@
           "Microsoft.Win32.SystemEvents": "6.0.0"
         }
       },
-      "System.Formats.Asn1/10.0.6": {
+      "System.Formats.Asn1/10.0.7": {
         "runtime": {
           "lib/net8.0/System.Formats.Asn1.dll": {
             "assemblyVersion": "10.0.0.0",
-            "fileVersion": "10.0.626.17701"
+            "fileVersion": "10.0.726.21808"
           }
         }
       },
-      "System.Security.Cryptography.Pkcs/10.0.6": {
+      "System.Security.Cryptography.Pkcs/10.0.7": {
         "dependencies": {
-          "Microsoft.Bcl.Cryptography": "10.0.6",
-          "System.Formats.Asn1": "10.0.6"
+          "Microsoft.Bcl.Cryptography": "10.0.7",
+          "System.Formats.Asn1": "10.0.7"
         },
         "runtime": {
           "lib/net8.0/System.Security.Cryptography.Pkcs.dll": {
             "assemblyVersion": "10.0.0.0",
-            "fileVersion": "10.0.626.17701"
+            "fileVersion": "10.0.726.21808"
           }
         },
         "runtimeTargets": {
@@ -158,7 +158,7 @@
             "rid": "win",
             "assetType": "runtime",
             "assemblyVersion": "10.0.0.0",
-            "fileVersion": "10.0.626.17701"
+            "fileVersion": "10.0.726.21808"
           }
         }
       },
@@ -321,12 +321,12 @@
       "path": "bouncycastle.cryptography/2.6.2",
       "hashPath": "bouncycastle.cryptography.2.6.2.nupkg.sha512"
     },
-    "Microsoft.Bcl.Cryptography/10.0.6": {
+    "Microsoft.Bcl.Cryptography/10.0.7": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Z0snzY7+gh+kjU3v9hQuu2q54eF0hosTTaI+aLYzFP2uUzySGHAxukjqWpeOioGUTZsM3PmPCn98OvJeD3KmkA==",
-      "path": "microsoft.bcl.cryptography/10.0.6",
-      "hashPath": "microsoft.bcl.cryptography.10.0.6.nupkg.sha512"
+      "sha512": "sha512-lbzm6/eWloAGTzN/6K+Hoa6f0nQEzusGx10ojwY/ZnirnVtIjLrhWHiKTm9McLUNqyVpuH/mvNldd9lWxm2PDA==",
+      "path": "microsoft.bcl.cryptography/10.0.7",
+      "hashPath": "microsoft.bcl.cryptography.10.0.7.nupkg.sha512"
     },
     "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.2": {
       "type": "package",
@@ -370,19 +370,19 @@
       "path": "system.drawing.common/6.0.0",
       "hashPath": "system.drawing.common.6.0.0.nupkg.sha512"
     },
-    "System.Formats.Asn1/10.0.6": {
+    "System.Formats.Asn1/10.0.7": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-/YXowB3idLgb3ix8pkZdr08EKSWoH9xyxywvXebcZnA1o1xUtSK3M8udHqN4xI50Ni6BuaOE1E9iCBiVpzkr7Q==",
-      "path": "system.formats.asn1/10.0.6",
-      "hashPath": "system.formats.asn1.10.0.6.nupkg.sha512"
+      "sha512": "sha512-vxgEGHvu9/ZHzGaRUW2P64Srt915iuSRWjhMSJcP93lBLbLrsjiPNw9ZZ8kzC7I/AyXyKQbWUTjbKfWEYB6lOw==",
+      "path": "system.formats.asn1/10.0.7",
+      "hashPath": "system.formats.asn1.10.0.7.nupkg.sha512"
     },
-    "System.Security.Cryptography.Pkcs/10.0.6": {
+    "System.Security.Cryptography.Pkcs/10.0.7": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-88tquaGJ1htm4DHWS6x9jwER7sFET2SVRN7HqO1FYZwE0diDcUmz0ajhVa8ZD2HGhDJBueSPjP/gqyP3gXtT2A==",
-      "path": "system.security.cryptography.pkcs/10.0.6",
-      "hashPath": "system.security.cryptography.pkcs.10.0.6.nupkg.sha512"
+      "sha512": "sha512-dbdKfF3eA5l+CXiAbDxiCxdezoxeanbue1ck8m49ih1L9uZG6ry8Ul8On6vpragyMDJJP4rQHUY/SWgk66tCYA==",
+      "path": "system.security.cryptography.pkcs/10.0.7",
+      "hashPath": "system.security.cryptography.pkcs.10.0.7.nupkg.sha512"
     },
     "ARBAA122R/1.0.0.1": {
       "type": "reference",
