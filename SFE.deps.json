@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "SFE/2.1.0.5": {
+      "SFE/2.1.0.6": {
         "dependencies": {
           "BouncyCastle.Cryptography": "2.6.2",
           "PDFsharp-GDI": "6.2.4",
@@ -16,7 +16,7 @@
           "ARBACOT": "1.0.0.2",
           "ARBAIIBB": "1.0.0.3",
           "ARCAWSAA": "1.0.0.3",
-          "ARCAWSBFE": "1.0.0.2",
+          "ARCAWSBFE": "1.0.0.3",
           "ARCAWSCDC": "1.0.0.2",
           "ARCAWSCT": "1.0.0.2",
           "ARCAWSFE": "1.0.0.3",
@@ -194,11 +194,11 @@
           }
         }
       },
-      "ARCAWSBFE/1.0.0.2": {
+      "ARCAWSBFE/1.0.0.3": {
         "runtime": {
           "ARCAWSBFE.dll": {
-            "assemblyVersion": "1.0.0.2",
-            "fileVersion": "1.0.0.2"
+            "assemblyVersion": "1.0.0.3",
+            "fileVersion": "1.0.0.3"
           }
         }
       },
@@ -309,7 +309,7 @@
     }
   },
   "libraries": {
-    "SFE/2.1.0.5": {
+    "SFE/2.1.0.6": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -404,7 +404,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ARCAWSBFE/1.0.0.2": {
+    "ARCAWSBFE/1.0.0.3": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
